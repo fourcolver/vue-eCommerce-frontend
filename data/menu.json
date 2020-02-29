@@ -1,0 +1,159 @@
+{
+    "data": [
+          {
+            "title": "Home", "type": "sub", "badgeValue": "new", "active": false,
+             "children": [
+              { "title": "clothing", "type": "sub", "active": false, 
+                "children": [
+                  { "path": "/shop/fashion", "title": "Fashion 1", "type": "link" },
+                  { "path": "/shop/fashion-2", "title": "Fashion 2", "type": "link" },
+                  { "path": "/shop/fashion-3", "title": "Fashion 3", "type": "link" },
+                  { "path": "/shop/kids", "title": "kids", "type": "link" }
+                ]
+              },          
+              { "path": "/shop/watch", "title": "Watch", "type": "link" },
+              { "path": "/shop/shoes", "title": "Shoes", "type": "link" },         
+              { "path": "/shop/bags", "title": "Bags", "type": "link" },
+              { "path": "/shop/pets", "title": "pets", "type": "link" },      
+              { "path": "/shop/furniture", "title": "Furniture", "type": "link" },
+              { "path": "/shop/flower", "title": "Flower", "type": "link" },
+              { "path": "/shop/electronics-1", "title": "Electronics", "type": "link" },
+              { "path": "/shop/vegetables", "title": "Vegetables", "type": "link" },
+              { "path": "/shop/beauty", "title": "Beauty", "type": "link" },
+              { "path": "/shop/tools", "title": "Tools", "type": "link" },
+              { "path": "/shop/jewellery", "title": "Jewellery", "type": "link" },
+              { "path": "/shop/gym", "title": "gym", "type": "link" }
+            ]
+          },
+          {
+            "title": "Shop", "type": "sub", "active": false, 
+            "children": [
+              { "path": "/collection/leftsidebar/all", "title": "Left Sidebar", "type": "link" },
+              { "path": "/collection/right-sidebar", "title": "Right Sidebar", "type": "link" },
+              { "path": "/collection/no-sidebar", "title": "No Sidebar", "type": "link" },
+              { "path": "/collection/sidebar-popup", "title": "Sidebar Popup", "type": "link" },
+              { "path": "/collection/metro", "title": "Metro", "type": "link" },
+              { "path": "/collection/full-width", "title": "Full width", "type": "link" },
+              { "path": "/collection/three-grid", "title": "Three Grid", "type": "link" },
+              { "path": "/collection/six-grid", "title": "six Grid", "type": "link" },
+              { "path": "/collection/list-view", "title": "List View", "type": "link" }
+            ]
+          },
+          {
+            "title": "Products", "type": "sub", "active": false, 
+            "children": [
+              { "title": "Sidebar", "type": "sub", "active": false, 
+                "children": [
+                  { "path": "/product/sidebar/1", "title": "left sidebar", "type": "link" },          
+                  { "path": "/product/sidebar/right-sidebar", "title": "Right sidebar", "type": "link" },          
+                  { "path": "/product/sidebar/no-sidebar", "title": "No sidebar", "type": "link" }
+                ]
+              },
+              { "title": "Thumbnail Image", "type": "sub", "active": false,
+                "children": [
+                  { "path": "/product/thumbnail-image/left-image", "title": "left Image", "type": "link" },
+                  { "path": "/product/thumbnail-image/right-image", "title": "Right image", "type": "link" },
+                  { "path": "/product/thumbnail-image/image-outside", "title": "Image Outside", "type": "link" }
+                ]
+              },
+              { "title": "3 column", "type": "sub", "active": false,
+                "children": [
+                  { "path": "/product/three-column/thumbnail-left", "title": "Thumbnail left", "type": "link" },
+                  { "path": "/product/three-column/thumbnail-right", "title": "Thumbnail Right", "type": "link" },
+                  { "path": "/product/three-column/thumbnail-bottom", "title": "Thumbnail bottom", "type": "link" }
+                ]
+              },
+              { "path": "/product/four-image", "title": "4 Image", "type": "link" },
+              { "path": "/product/bundle-product", "title": "Bundle Product", "type": "link" }
+            ]
+          },
+          {
+            "title": "Features", "type": "sub", "megamenu": true, "active": false, 
+            "children": [
+              { "title": "portfolio", "type": "megasub", "active": false, 
+                "children": [
+                  { "path": "/page/portfolio/portfolio-2-col", "title": "portfolio grid 2", "type": "link" },          
+                  { "path": "/page/portfolio/portfolio-3-col", "title": "portfolio grid 3", "type": "link" },          
+                  { "path": "/page/portfolio/portfolio-4-col", "title": "portfolio grid 4", "type": "link" },
+                  { "path": "/page/portfolio/mesonary-grid-2", "title": "mesonary grid 2", "type": "link" },
+                  { "path": "/page/portfolio/mesonary-grid-3", "title": "mesonary grid 3", "type": "link" },
+                  { "path": "/page/portfolio/mesonary-grid-4", "title": "mesonary grid 4", "type": "link" },
+                  { "path": "/page/portfolio/masonary-fullwidth", "title": "mesonary Full Width", "type": "link" }                  
+                ]
+              },
+              { "title": "Add to cart", "type": "megasub", "active": false,
+                "children": [
+                  { "path": "/shop/shoes", "title": "Cart top", "type": "link" },
+                  { "path": "/shop/watch", "title": "Cart bottom", "type": "link" },
+                  { "path": "/shop/bags", "title": "Cart left", "type": "link" },
+                  { "path": "/shop/pets", "title": "Cart right", "type": "link" },
+                  { "path": "/shop/furniture", "title": "Cart Model Popup", "type": "link" }
+                ]
+              },
+              { "title": "theme elements", "type": "megasub", "active": false,
+                "children": [
+                  { "path": "/page/element/collection-banner", "title": "collection banner", "type": "link" },
+                  { "path": "/page/element/home-slider", "title": "Home slider", "type": "link" },
+                  { "path": "/page/element/category", "title": "category", "type": "link" },
+                  { "path": "/page/element/logo-slider", "title": "Logo Slider", "type": "link" },
+                  { "path": "/page/element/service", "title": "service", "type": "link" }
+                ]
+              },
+              { "title": "Product elements", "type": "megasub", "active": false,
+                "children": [
+                  { "path": "/page/element/product-slider", "title": "Product slider", "type": "link" },
+                  { "path": "/page/element/banner", "title": "Banners", "type": "link" },
+                  { "path": "/page/element/product-tabs", "title": "product tabs", "type": "link" },
+                  { "path": "/page/element/multi-slider", "title": "Multi slider", "type": "link" },
+                  { "path": "/page/account/login-firebase", "title": "Login With Firebase", "type": "link" }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Pages", "type": "sub", "active": false, 
+            "children": [
+              { "title": "Account", "type": "sub", "active": false, 
+                "children": [
+                  { "path": "/page/account/wishlist", "title": "Wishlist", "type": "link" },          
+                  { "path": "/page/account/cart", "title": "Cart", "type": "link" },          
+                  { "path": "/page/account/dashboard", "title": "Dashboard", "type": "link" },
+                  { "path": "/page/account/login", "title": "Login", "type": "link" },
+                  { "path": "/page/account/register", "title": "Register", "type": "link" },
+                  { "path": "/page/account/contact", "title": "Contact", "type": "link" },
+                  { "path": "/page/account/forget-password", "title": "Forget password", "type": "link" },
+                  { "path": "/page/account/profile", "title": "Profile", "type": "link" },
+                  { "path": "/page/account/checkout", "title": "Checkout", "type": "link" }
+                ]
+              },
+              { "path": "/page/about", "title": "About us", "type": "link" },
+              { "path": "/page/search", "title": "Search", "type": "link" },
+              { "path": "/page/typography", "title": "Typography", "type": "link" },
+              { "path": "/page/review", "title": "Review", "type": "link" },
+              { "path": "/page/order-success", "title": "Order success", "type": "link" },
+              { "title": "Compare", "type": "sub", "active": false,
+                "children": [
+                  { "path": "/page/compare/compare-1", "title": "Compare-1", "type": "link" },
+                  { "path": "/page/compare/compare-2", "title": "Compare-2", "type": "link" }
+                ]
+              },
+              { "path": "/page/collection", "title": "Collection", "type": "link" },
+              { "path": "/page/lookbook", "title": "lookbook", "type": "link" },
+              { "path": "/page/sitemap", "title": "Sitemap", "type": "link" },
+              { "path": "/page/404", "title": "404", "type": "link" },
+              { "path": "/page/coming-soon", "title": "Coming soon", "type": "link" },
+              { "path": "/page/faq", "title": "faq", "type": "link" }
+            ]
+          },
+          {
+            "title": "Blog", "type": "sub", "active": false, 
+            "children": [
+              { "path": "/blog/blog-leftsidebar", "title": "Left Sidebar", "type": "link" },
+              { "path": "/blog/blog-rightsidebar", "title": "Right Sidebar", "type": "link" },
+              { "path": "/blog/blog-nosidebar", "title": "No Sidebar", "type": "link" },
+              { "path": "/blog/blog-detail", "title": "Blog details", "type": "link" }
+            ]
+          }
+        ]
+  }
+  

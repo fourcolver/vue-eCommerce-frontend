@@ -1,0 +1,27 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+.env
+.npmrc
+.idea
+
+npm-debug.log*
+
+package-lock.json
+
+_source
+
+static/OneSignalSDKUpdaterWorker.js
+static/OneSignalSDKWorker.js
+
+socket/socket.log
+!/libs/vuejs-datepicker/dist

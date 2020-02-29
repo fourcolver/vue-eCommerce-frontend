@@ -1,0 +1,157 @@
+{
+    "data": [
+      { 
+        "title": "Lorem ipsum dolor consectetur adipiscing",
+        "images": ["1.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 9, 2019",
+        "type": "fashion",
+        "tags": ["latest", "new"]
+      },
+      {
+        "title": "Lorem ipsum dolor sit consectetur elit",
+        "images": ["2.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "nov 1, 2019",
+        "type": "fashion",
+        "tags": ["latest", "fashion"]
+      },
+      {
+        "title": "Lorem ipsum dolor sit adipiscing elit",
+        "images": ["3.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "nov 29, 2019",
+        "type": "fashion",
+        "tags": ["recent", "new"]
+      },
+      {
+        "title": "Lorem ipsum sit consectetur adipiscing",
+        "images": ["4.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "dec 9, 2019",
+        "type": "fashion",
+        "tags": ["popular", "recent"]
+      },
+      {
+        "title": "Lorem ipsum consectetur adipiscing elit",
+        "images": ["5.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "nov 19, 2019",
+        "type": "fashion",
+        "tags": ["recent", "fashion"]
+      },
+      {
+        "title": "Lorem ipsum shoes adipiscing elit",
+        "images": ["10.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "dec 19, 2019",
+        "type": "shoes",
+        "tags": ["shoes", "trending"]
+      },
+      {
+        "title": "Lorem footwear consectetur adipiscing",
+        "images": ["11.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 2, 2019",
+        "type": "shoes",
+        "tags": ["style", "recent"]
+      },
+      {
+        "title": "Lorem ipsum dolor adipiscing elit",
+        "images": ["13.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 26, 2019",
+        "type": "shoes",
+        "tags": ["popular", "shoes"]
+      },
+      {
+        "title": "Lorem shoes dolor consectetur elit",
+        "images": ["14.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 26, 2019",
+        "type": "shoes",
+        "tags": ["popular", "shoes"]
+      },
+      {
+        "title": "Bags style dolor consectetur elit",
+        "images": ["15.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 26, 2019",
+        "type": "bags",
+        "tags": ["bags", "new"]
+      },
+      {
+        "title": "New bags dolor adipiscing consectetur",
+        "images": ["16.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 26, 2019",
+        "type": "bags",
+        "tags": ["popular", "trending"]
+      },
+      {
+        "title": "Lorem bags for women dolor consectetur",
+        "images": ["17.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 26, 2019",
+        "type": "bags",
+        "tags": ["latest", "recent"]
+      },
+      {
+        "title": "handbag and backpack consectetur adipiscing",
+        "images": ["19.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 10, 2019",
+        "type": "bags",
+        "tags": ["bags", "style"]
+      },
+      {
+        "title": "watches lorem consectetur adipiscing dolor",
+        "images": ["20.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 15, 2019",
+        "type": "watch",
+        "tags": ["new", "style"]
+      },
+      {
+        "title": "women watches elit consectetur dolor",
+        "images": ["21.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "oct 15, 2019",
+        "type": "watch",
+        "tags": ["popular", "recent"]
+      },
+      {
+        "title": "trending watches for men adipiscing elit",
+        "images": ["22.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "dec 15, 2019",
+        "type": "watch",
+        "tags": ["trending", "style"]
+      },
+      {
+        "title": "trending kids clothing adipiscing elit",
+        "images": ["22.jpg"],
+        "author": "John Dio",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "date": "dec 15, 2019",
+        "type": "kids",
+        "tags": ["trending", "new"]
+      }
+    ]
+  }
