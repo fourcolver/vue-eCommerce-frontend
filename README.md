@@ -1,4 +1,4 @@
-# project description
+# Project description
 
 eCommerce theme built with vuejs
 High performance and smart animation effect.
